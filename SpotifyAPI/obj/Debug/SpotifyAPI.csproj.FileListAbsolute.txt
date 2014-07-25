@@ -1,0 +1,12 @@
+C:\Users\MamiSam\Desktop\Mario Valderrama\SpotifyAPI-NET-master\SpotifyAPI\bin\Debug\SpotifyAPI.dll.config
+C:\Users\MamiSam\Desktop\Mario Valderrama\SpotifyAPI-NET-master\SpotifyAPI\bin\Debug\SpotifyAPI.dll
+C:\Users\MamiSam\Desktop\Mario Valderrama\SpotifyAPI-NET-master\SpotifyAPI\bin\Debug\SpotifyAPI.pdb
+C:\Users\MamiSam\Desktop\Mario Valderrama\SpotifyAPI-NET-master\SpotifyAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MamiSam\Desktop\Mario Valderrama\SpotifyAPI-NET-master\SpotifyAPI\obj\Debug\SpotifyAPI.csprojResolveAssemblyReference.cache
+C:\Users\MamiSam\Desktop\Mario Valderrama\SpotifyAPI-NET-master\SpotifyAPI\obj\Debug\SpotifyAPI.dll
+C:\Users\MamiSam\Desktop\Mario Valderrama\SpotifyAPI-NET-master\SpotifyAPI\obj\Debug\SpotifyAPI.pdb
+C:\Users\MamiSam\Desktop\Mario Valderrama\mvSpotify\SpotifyAPI\bin\Debug\SpotifyAPI.dll.config
+C:\Users\MamiSam\Desktop\Mario Valderrama\mvSpotify\SpotifyAPI\bin\Debug\SpotifyAPI.dll
+C:\Users\MamiSam\Desktop\Mario Valderrama\mvSpotify\SpotifyAPI\bin\Debug\SpotifyAPI.pdb
+C:\Users\MamiSam\Desktop\Mario Valderrama\mvSpotify\SpotifyAPI\obj\Debug\SpotifyAPI.dll
+C:\Users\MamiSam\Desktop\Mario Valderrama\mvSpotify\SpotifyAPI\obj\Debug\SpotifyAPI.pdb
